@@ -1,0 +1,12 @@
+tocTab[tocTab.length] = new Array("2.11:1", "", "WebsiteManage", "EARoot/EA2/EA11/EA156.htm", "180.png", "54", "0", "", "Use Case diagram0","{4C2C15E3-6FB4-45f3-AD50-105291BF53F7}");
+tocTab[tocTab.length] = new Array("2.11:2", "", "Active", "EARoot/EA2/EA11/EA158.htm", "7.png", "265", "0", "", "UseCase0","{9BDF2191-5B3A-4ca6-9326-9A56134E4DBD}");
+tocTab[tocTab.length] = new Array("2.11:3", "", "CurrencyInfo", "EARoot/EA2/EA11/EA159.htm", "7.png", "272", "0", "", "UseCase0","{8D816B36-2539-44c2-9876-97D2B921A950}");
+tocTab[tocTab.length] = new Array("2.11:4", "", "GoodsBox", "EARoot/EA2/EA11/EA160.htm", "7.png", "264", "0", "", "UseCase0","{1695C38D-BA2F-4fc5-972B-49FE4722C1D7}");
+tocTab[tocTab.length] = new Array("2.11:5", "", "OtherInfo", "EARoot/EA2/EA11/EA161.htm", "7.png", "273", "0", "", "UseCase0","{9F05F2D8-7EC5-42f3-B3FE-6F2C241BA25D}");
+tocTab[tocTab.length] = new Array("2.11:6", "", "PayTypeInfo", "EARoot/EA2/EA11/EA162.htm", "7.png", "271", "0", "", "UseCase0","{66A5A124-688E-4cf7-8372-77D8FFAE8816}");
+tocTab[tocTab.length] = new Array("2.11:7", "", "Promotion", "EARoot/EA2/EA11/EA163.htm", "7.png", "266", "0", "", "UseCase0","{74D3FDDA-8DDF-4098-9D2D-18C15CFFE19A}");
+tocTab[tocTab.length] = new Array("2.11:8", "", "PromotionCreate", "EARoot/EA2/EA11/EA164.htm", "7.png", "268", "0", "", "UseCase0","{794CCCB1-0A74-4f8a-B08D-115FF4F8E884}");
+tocTab[tocTab.length] = new Array("2.11:9", "", "PromotionUse", "EARoot/EA2/EA11/EA165.htm", "7.png", "269", "0", "", "UseCase0","{619AE9AB-327B-4822-9C5C-CE35C58AB63C}");
+tocTab[tocTab.length] = new Array("2.11:10", "", "ShipTypeInfo", "EARoot/EA2/EA11/EA166.htm", "7.png", "270", "0", "", "UseCase0","{8C0F4AEA-C92E-411f-9732-25F77092FD55}");
+tocTab[tocTab.length] = new Array("2.11:11", "", "WebBaseInfo", "EARoot/EA2/EA11/EA167.htm", "7.png", "267", "0", "", "UseCase0","{343C6B58-EA45-4aa3-87A1-1C89DD6F7D64}");
+tocTab[tocTab.length] = new Array("2.11:12", "", "WebRole", "EARoot/EA2/EA11/EA168.htm", "6.png", "263", "0", "", "Actor0","{020F90F1-213F-47df-8CE0-4C979C83C78E}");

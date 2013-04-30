@@ -1,0 +1,12 @@
+tocTab[tocTab.length] = new Array("2.4:1", "", "LogisticsManage", "EARoot/EA2/EA4/EA92.htm", "180.png", "52", "0", "", "Use Case diagram0","{13FDFD5F-6613-4917-AA16-DF1F519EC22F}");
+tocTab[tocTab.length] = new Array("2.4:2", "", "InCome", "EARoot/EA2/EA4/EA94.htm", "7.png", "254", "0", "", "UseCase0","{7B0FB057-0DB5-417b-943D-DDA25BC14A6E}");
+tocTab[tocTab.length] = new Array("2.4:3", "", "InComeWarehouse", "EARoot/EA2/EA4/EA95.htm", "7.png", "255", "0", "", "UseCase0","{DD70D871-C7DA-4a8f-8A69-3897D14DBA30}");
+tocTab[tocTab.length] = new Array("2.4:4", "", "InputScanShipDoc", "EARoot/EA2/EA4/EA96.htm", "7.png", "251", "0", "", "UseCase0","{78D4E7A8-DB2D-4fbd-A0B5-EE30F2B94566}");
+tocTab[tocTab.length] = new Array("2.4:5", "", "InWarehouse", "EARoot/EA2/EA4/EA97.htm", "7.png", "252", "0", "", "UseCase0","{93A0BEC9-0855-49ca-9549-C5407AD77A93}");
+tocTab[tocTab.length] = new Array("2.4:6", "", "LogisticsRole", "EARoot/EA2/EA4/EA98.htm", "6.png", "245", "0", "", "Actor0","{34AF06B4-E9E3-48bc-B32F-B47DD2740A4C}");
+tocTab[tocTab.length] = new Array("2.4:7", "", "OutWarehouse", "EARoot/EA2/EA4/EA99.htm", "7.png", "249", "0", "", "UseCase0","{37EB19D3-A687-4983-B621-20724341862D}");
+tocTab[tocTab.length] = new Array("2.4:8", "", "Stockingscancode", "EARoot/EA2/EA4/EA100.htm", "7.png", "250", "0", "", "UseCase0","{52D4EC9D-8C87-49c7-9A64-1C39F32DFBBE}");
+tocTab[tocTab.length] = new Array("2.4:9", "", "UpdateShiptype", "EARoot/EA2/EA4/EA101.htm", "7.png", "247", "0", "", "UseCase0","{0904F041-162B-4e6c-BBC2-755F78D8FA3F}");
+tocTab[tocTab.length] = new Array("2.4:10", "", "WaitPurchaseBrowse", "EARoot/EA2/EA4/EA102.htm", "7.png", "253", "0", "", "UseCase0","{87713A41-8C4D-420d-A057-613BD262B389}");
+tocTab[tocTab.length] = new Array("2.4:11", "", "WaitWarehouseDoc", "EARoot/EA2/EA4/EA103.htm", "7.png", "248", "0", "", "UseCase0","{896D2882-C768-44d8-AFA9-6D81EDAF89CE}");
+tocTab[tocTab.length] = new Array("2.4:12", "", "WaitWarehouseOrderBrowse", "EARoot/EA2/EA4/EA104.htm", "7.png", "246", "0", "", "UseCase0","{C6B62CE4-D43A-4067-B6F8-7F9EF641F2BB}");

@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("2.10:1", "", "WareHouse", "EARoot/EA2/EA10/EA150.htm", "180.png", "49", "0", "", "Use Case diagram0","{B88D527D-B5F4-42a6-8848-C10B3D3B4077}");
+tocTab[tocTab.length] = new Array("2.10:2", "", "GoodsInventoryInit", "EARoot/EA2/EA10/EA152.htm", "7.png", "221", "0", "", "UseCase0","{8177CCD0-D915-40e6-8E3B-6F5C35C9CC68}");
+tocTab[tocTab.length] = new Array("2.10:3", "", "MoveWarehouse", "EARoot/EA2/EA10/EA153.htm", "7.png", "222", "0", "", "UseCase0","{8B04494C-952D-466c-8F1D-9557CD628088}");
+tocTab[tocTab.length] = new Array("2.10:4", "", "WarehouseCreate", "EARoot/EA2/EA10/EA154.htm", "7.png", "220", "0", "", "UseCase0","{7F2A99D0-EFBC-45e1-9409-BA39AC66E085}");
+tocTab[tocTab.length] = new Array("2.10:5", "", "WarehouseRole", "EARoot/EA2/EA10/EA155.htm", "6.png", "219", "0", "", "Actor0","{462C26F4-4C20-443d-8A66-43BD89B0FF59}");

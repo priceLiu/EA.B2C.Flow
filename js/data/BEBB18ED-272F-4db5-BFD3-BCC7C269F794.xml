@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("2.2:1", "", "FinanceManage", "EARoot/EA2/EA2/EA71.htm", "180.png", "51", "0", "", "Use Case diagram0","{E41A8389-8948-4e69-BCA0-5F12BD6E8F5E}");
+tocTab[tocTab.length] = new Array("2.2:2", "", "Audit", "EARoot/EA2/EA2/EA73.htm", "7.png", "239", "0", "", "UseCase0","{43C06679-50C4-427c-8F3F-F79D6B758CB0}");
+tocTab[tocTab.length] = new Array("2.2:3", "", "FinanceRole", "EARoot/EA2/EA2/EA74.htm", "6.png", "235", "0", "", "Actor0","{708DBBBA-5DE1-4d9e-851B-FA69F0CD225F}");
+tocTab[tocTab.length] = new Array("2.2:4", "", "OrderAudit", "EARoot/EA2/EA2/EA75.htm", "7.png", "240", "0", "", "UseCase0","{BE7353E4-87CC-4c31-AFB2-4E4CC79DABC4}");
+tocTab[tocTab.length] = new Array("2.2:5", "", "PaidOrderBrowse", "EARoot/EA2/EA2/EA76.htm", "7.png", "238", "0", "", "UseCase0","{D686FC1E-A504-4df9-9D3E-EA065A1B999A}");
+tocTab[tocTab.length] = new Array("2.2:6", "", "Pay", "EARoot/EA2/EA2/EA77.htm", "7.png", "243", "0", "", "UseCase0","{B079AF53-5848-4ff0-9634-6DA7122AAB57}");
+tocTab[tocTab.length] = new Array("2.2:7", "", "PendingPayPurchase", "EARoot/EA2/EA2/EA78.htm", "7.png", "241", "0", "", "UseCase0","{8ED06F1F-19CF-4694-982F-C17163DBAE64}");
+tocTab[tocTab.length] = new Array("2.2:8", "", "PurchasePay", "EARoot/EA2/EA2/EA79.htm", "7.png", "237", "0", "", "UseCase0","{F2B3126E-D0F6-448b-959D-E2B8F4E6B7F7}");
+tocTab[tocTab.length] = new Array("2.2:9", "", "PurchasePayCreate", "EARoot/EA2/EA2/EA80.htm", "7.png", "242", "0", "", "UseCase0","{8B80972A-7B91-419e-A7D7-B2949CB13552}");
+tocTab[tocTab.length] = new Array("2.2:10", "", "SaleInCome", "EARoot/EA2/EA2/EA81.htm", "7.png", "236", "0", "", "UseCase0","{6A00B549-64A6-45a3-B256-8BD86336B8FF}");

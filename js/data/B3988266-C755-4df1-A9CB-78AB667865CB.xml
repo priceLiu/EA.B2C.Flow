@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0:1", "", "Welcome", "EARoot/EA1.htm", "181.png", "258", "0", "", "Activity diagram0","{973950C4-0D98-432b-B17B-745A78DDA944}");
+tocTab[tocTab.length] = new Array("0:2", "", "Model Overview", "EARoot/EA3.htm", "175.png", "67", "0", "", "Logical diagram0","{79CBFBBC-D3AD-492d-A1C6-D4DF6ED5026F}");
+tocTab[tocTab.length] = new Array("0:3", "", "UML 2.0 Diagrams", "EARoot/EA5.htm", "175.png", "155", "0", "", "Logical diagram0","{9EAD8925-278B-475c-BA9A-FF78DBDB9E04}");
+tocTab[tocTab.length] = new Array("0:4", "", "Custom Diagrams", "EARoot/EA7.htm", "175.png", "260", "0", "", "Logical diagram0","{02CEB854-229C-4372-B048-16BD77372C87}");
+tocTab[tocTab.length] = new Array("0:5", "", "Diagram using Images", "EARoot/EA9.htm", "175.png", "372", "0", "", "Logical diagram0","{96257107-1EEC-4644-96C2-89E41C14E109}");

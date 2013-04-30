@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("2.8:1", "", "RolePermissions", "EARoot/EA2/EA8/EA135.htm", "180.png", "46", "0", "", "Use Case diagram0","{F21231A6-0F6B-4288-806D-991C6625A513}");
+tocTab[tocTab.length] = new Array("2.8:2", "", "Admin", "EARoot/EA2/EA8/EA137.htm", "6.png", "194", "0", "", "Actor0","{F26CC8A5-7EB2-4abb-8A53-D61001CD9903}");
+tocTab[tocTab.length] = new Array("2.8:3", "", "PermissionsBrowse", "EARoot/EA2/EA8/EA138.htm", "7.png", "195", "0", "", "UseCase0","{DF6B6E2F-C16B-4079-AAF5-1908121FA998}");
+tocTab[tocTab.length] = new Array("2.8:4", "", "RoleAdd", "EARoot/EA2/EA8/EA139.htm", "7.png", "196", "0", "", "UseCase0","{840B2800-961F-44e0-8BFF-C38E3999A629}");
+tocTab[tocTab.length] = new Array("2.8:5", "", "RoleBrowse", "EARoot/EA2/EA8/EA140.htm", "7.png", "198", "0", "", "UseCase0","{62851AD7-EE01-4d79-B686-2CDAD0D552EC}");
+tocTab[tocTab.length] = new Array("2.8:6", "", "RoleDelMod", "EARoot/EA2/EA8/EA141.htm", "7.png", "197", "0", "", "UseCase0","{036AF93A-DE13-42e7-BADA-ADBE090F83BB}");
+tocTab[tocTab.length] = new Array("2.8:7", "", "RolePermissionsMatch", "EARoot/EA2/EA8/EA142.htm", "7.png", "199", "0", "", "UseCase0","{1E58E1EC-A66C-47af-BE11-F901EB5B5E24}");

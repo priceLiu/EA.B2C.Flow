@@ -1,0 +1,12 @@
+tocTab[tocTab.length] = new Array("2:1", "", "Erp", "EARoot/EA2/EA52.htm", "180.png", "42", "0", "", "Use Case diagram0","{01E47F0F-A039-44db-81F0-4AB003DD4491}");
+tocTab[tocTab.length] = new Array("2.1", "1", "AfterSalesManage", "EARoot/EA2/EA55.htm", "4.png", "", "", "{2A99A7FA-578A-4f09-B8DB-CB6DDB640A38}", "Package");
+tocTab[tocTab.length] = new Array("2.2", "1", "FinanceManage", "EARoot/EA2/EA56.htm", "4.png", "", "", "{BEBB18ED-272F-4db5-BFD3-BCC7C269F794}", "Package");
+tocTab[tocTab.length] = new Array("2.3", "1", "GoodsManage", "EARoot/EA2/EA57.htm", "4.png", "", "", "{D17D9AA0-079C-434a-89BE-7CA111B02D95}", "Package");
+tocTab[tocTab.length] = new Array("2.4", "1", "LogisticsManage", "EARoot/EA2/EA58.htm", "4.png", "", "", "{81B478AB-F42B-490e-9582-EEFF25ECCDF2}", "Package");
+tocTab[tocTab.length] = new Array("2.5", "1", "OrdersManage", "EARoot/EA2/EA59.htm", "4.png", "", "", "{4491856B-D224-47b2-8F10-1ACAAC5E8AC4}", "Package");
+tocTab[tocTab.length] = new Array("2.6", "1", "PurchaseManage", "EARoot/EA2/EA60.htm", "4.png", "", "", "{E7871E63-5A94-4756-AA18-78955A7D85B0}", "Package");
+tocTab[tocTab.length] = new Array("2.7", "1", "ReportManage", "EARoot/EA2/EA61.htm", "4.png", "", "", "{F199F329-64D3-4d05-8617-4F09155E6ED2}", "Package");
+tocTab[tocTab.length] = new Array("2.8", "1", "RolePermissions", "EARoot/EA2/EA62.htm", "4.png", "", "", "{175EF043-224D-464c-8399-20AA513A4E94}", "Package");
+tocTab[tocTab.length] = new Array("2.9", "1", "UserManage", "EARoot/EA2/EA63.htm", "4.png", "", "", "{D3C271F1-2936-48b1-8F8C-EE4FE410E620}", "Package");
+tocTab[tocTab.length] = new Array("2.10", "1", "WareHouse", "EARoot/EA2/EA64.htm", "4.png", "", "", "{D0ABDD97-8B0E-4635-BDA4-81441F07E1E0}", "Package");
+tocTab[tocTab.length] = new Array("2.11", "1", "WebsiteManage", "EARoot/EA2/EA65.htm", "4.png", "", "", "{8B574F8F-FD90-4ccb-8DE7-F6A1A1BC21AE}", "Package");

@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("2.5:1", "", "OrdersManage", "EARoot/EA2/EA5/EA105.htm", "180.png", "48", "0", "", "Use Case diagram0","{91086638-8260-485a-AE23-C169C31EFFA4}");
+tocTab[tocTab.length] = new Array("2.5:2", "", "定单处理", "EARoot/EA2/EA5/EA107.htm", "7.png", "213", "0", "", "UseCase0","{115AA153-9BDA-4635-B97E-8E68D0826545}");
+tocTab[tocTab.length] = new Array("2.5:3", "", "AuditOrder", "EARoot/EA2/EA5/EA108.htm", "7.png", "215", "0", "", "UseCase0","{796E66D0-93CA-438b-8DC4-291BEF648B23}");
+tocTab[tocTab.length] = new Array("2.5:4", "", "CreateOrder", "EARoot/EA2/EA5/EA109.htm", "7.png", "217", "0", "", "UseCase0","{8F935D91-7EB1-41cf-B9ED-7155FC35482B}");
+tocTab[tocTab.length] = new Array("2.5:5", "", "OrderDetail", "EARoot/EA2/EA5/EA110.htm", "7.png", "212", "0", "", "UseCase0","{56A975B2-E49E-4da9-A0BC-472447492E2E}");
+tocTab[tocTab.length] = new Array("2.5:6", "", "OrderInValid", "EARoot/EA2/EA5/EA111.htm", "7.png", "214", "0", "", "UseCase0","{E53E8C57-E0DF-4736-8973-F124044EF00C}");
+tocTab[tocTab.length] = new Array("2.5:7", "", "OrdersSearchBrowse", "EARoot/EA2/EA5/EA112.htm", "7.png", "211", "0", "", "UseCase0","{0C96E22C-E89F-4b1d-9F80-2FE2C7A591E3}");
+tocTab[tocTab.length] = new Array("2.5:8", "", "OrderUserRole", "EARoot/EA2/EA5/EA113.htm", "6.png", "210", "0", "", "Actor0","{3D3DB809-B7DD-4a10-96B2-BCF10CF91381}");
+tocTab[tocTab.length] = new Array("2.5:9", "", "UpdateOrder", "EARoot/EA2/EA5/EA114.htm", "7.png", "216", "0", "", "UseCase0","{52E62DF4-5EC6-45e3-8E35-600D6B187562}");

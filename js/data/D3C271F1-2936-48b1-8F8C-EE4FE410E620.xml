@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("2.9:1", "", "UserManage", "EARoot/EA2/EA9/EA143.htm", "180.png", "45", "0", "", "Use Case diagram0","{8EB5132C-0E4B-4af8-BA5A-ACAD7006CF1D}");
+tocTab[tocTab.length] = new Array("2.9:2", "", "Admin", "EARoot/EA2/EA9/EA145.htm", "6.png", "187", "0", "", "Actor0","{43E97A4D-9F98-47b1-93BD-9CF8C9F19E3A}");
+tocTab[tocTab.length] = new Array("2.9:3", "", "UserAdd", "EARoot/EA2/EA9/EA146.htm", "7.png", "188", "0", "", "UseCase0","{B94562CC-3D80-42ac-BBC5-2959480EA229}");
+tocTab[tocTab.length] = new Array("2.9:4", "", "UserBrowseSearch", "EARoot/EA2/EA9/EA147.htm", "7.png", "191", "0", "", "UseCase0","{F10867B1-25D2-491f-9F2E-884F199456A7}");
+tocTab[tocTab.length] = new Array("2.9:5", "", "UserDelMod", "EARoot/EA2/EA9/EA148.htm", "7.png", "189", "0", "", "UseCase0","{A748BD84-193B-4639-A85E-1108E1F6E252}");
+tocTab[tocTab.length] = new Array("2.9:6", "", "UserRoleSet", "EARoot/EA2/EA9/EA149.htm", "7.png", "190", "0", "", "UseCase0","{59DE6037-F70D-4aed-8363-03E9646E8374}");

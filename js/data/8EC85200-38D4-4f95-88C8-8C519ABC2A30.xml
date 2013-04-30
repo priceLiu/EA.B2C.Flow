@@ -1,0 +1,13 @@
+tocTab[tocTab.length] = new Array("1.2:1", "", "GoodsBuy", "EARoot/EA1/EA2/EA22.htm", "180.png", "44", "0", "", "Use Case diagram0","{32098D85-2E69-46c6-BBDC-4E331CEED783}");
+tocTab[tocTab.length] = new Array("1.2:2", "", "定单提交支付", "EARoot/EA1/EA2/EA24.htm", "7.png", "181", "0", "", "UseCase0","{A46E19B3-738A-4a5a-8182-D169C7B346B8}");
+tocTab[tocTab.length] = new Array("1.2:3", "", "AddGoods", "EARoot/EA1/EA2/EA25.htm", "7.png", "173", "0", "", "UseCase0","{2EA4A833-2AC9-4082-B605-68587CDA12B2}");
+tocTab[tocTab.length] = new Array("1.2:4", "", "Customer", "EARoot/EA1/EA2/EA26.htm", "6.png", "171", "0", "", "Actor0","{17A18607-CB13-4ca6-B41A-A200DAD73554}");
+tocTab[tocTab.length] = new Array("1.2:5", "", "GeneritionOrder", "EARoot/EA1/EA2/EA27.htm", "7.png", "176", "0", "", "UseCase0","{24B81BE4-C164-4b64-9D90-305E46CA166B}");
+tocTab[tocTab.length] = new Array("1.2:6", "", "Login", "EARoot/EA1/EA2/EA28.htm", "7.png", "182", "0", "", "UseCase0","{69EE2F07-5E6D-49b6-98D6-B15165A1500B}");
+tocTab[tocTab.length] = new Array("1.2:7", "", "ReceiveInfo", "EARoot/EA1/EA2/EA29.htm", "7.png", "177", "0", "", "UseCase0","{5ABA40DF-4CD0-4477-9FF6-42375A730FDA}");
+tocTab[tocTab.length] = new Array("1.2:8", "", "RemoveGoods", "EARoot/EA1/EA2/EA30.htm", "7.png", "174", "0", "", "UseCase0","{03D4FD68-8069-4b4b-AD5A-AF2008379269}");
+tocTab[tocTab.length] = new Array("1.2:9", "", "SelectedPay", "EARoot/EA1/EA2/EA31.htm", "7.png", "178", "0", "", "UseCase0","{C8DB0026-9566-462a-81FF-009A44E01603}");
+tocTab[tocTab.length] = new Array("1.2:10", "", "Shoppingcart", "EARoot/EA1/EA2/EA32.htm", "7.png", "172", "0", "", "UseCase0","{F7B27062-4747-4376-BA43-319F6A8DEAF3}");
+tocTab[tocTab.length] = new Array("1.2:11", "", "UpdateGoodsQty", "EARoot/EA1/EA2/EA33.htm", "7.png", "175", "0", "", "UseCase0","{4CDAE137-60E9-4acc-BF19-FFD1FF6B1E26}");
+tocTab[tocTab.length] = new Array("1.2:12", "", "UseBalance", "EARoot/EA1/EA2/EA34.htm", "7.png", "180", "0", "", "UseCase0","{F4B5509C-0361-4886-80C6-3034C0CF36BC}");
+tocTab[tocTab.length] = new Array("1.2:13", "", "UsePromotionCode", "EARoot/EA1/EA2/EA35.htm", "7.png", "179", "0", "", "UseCase0","{E52EB0D8-FDE7-4fa0-AE94-75BF4F47C11E}");

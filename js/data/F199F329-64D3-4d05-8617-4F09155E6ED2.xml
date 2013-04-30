@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("2.7:1", "", "ReportManage", "EARoot/EA2/EA7/EA125.htm", "180.png", "55", "0", "", "Use Case diagram0","{01734312-819D-4dd5-BFCB-7A2B85DB87DF}");
+tocTab[tocTab.length] = new Array("2.7:2", "", "Actor1", "EARoot/EA2/EA7/EA127.htm", "6.png", "281", "0", "", "Actor0","{CD1D97F6-EF7D-4f0d-B1E5-3EE04FE947E5}");
+tocTab[tocTab.length] = new Array("2.7:3", "", "FinanceReport", "EARoot/EA2/EA7/EA128.htm", "7.png", "276", "0", "", "UseCase0","{B28D3C48-00CF-4d73-ABCB-1893DD85918F}");
+tocTab[tocTab.length] = new Array("2.7:4", "", "FinanceRole", "EARoot/EA2/EA7/EA129.htm", "6.png", "279", "0", "", "Actor0","{F6050233-026E-4690-8675-DB92BD1C0381}");
+tocTab[tocTab.length] = new Array("2.7:5", "", "InventoryReportBrowse", "EARoot/EA2/EA7/EA130.htm", "7.png", "278", "0", "", "UseCase0","{7D25E33D-C52D-4c65-986E-AFA0E310793F}");
+tocTab[tocTab.length] = new Array("2.7:6", "", "OtherReportBrowse", "EARoot/EA2/EA7/EA131.htm", "7.png", "282", "0", "", "UseCase0","{12DE5D49-8ADA-489a-A087-C8227FEFC12A}");
+tocTab[tocTab.length] = new Array("2.7:7", "", "ReportBrowseRole", "EARoot/EA2/EA7/EA132.htm", "6.png", "275", "0", "", "Actor0","{DBD5FC59-1643-4700-8C61-A9175F637828}");
+tocTab[tocTab.length] = new Array("2.7:8", "", "SaleReportBrowse", "EARoot/EA2/EA7/EA133.htm", "7.png", "277", "0", "", "UseCase0","{75D7CF86-940E-45bf-99DD-64F74BEFF3B6}");
+tocTab[tocTab.length] = new Array("2.7:9", "", "SaleRole", "EARoot/EA2/EA7/EA134.htm", "6.png", "280", "0", "", "Actor0","{7557F834-EDBA-4de0-981E-DCD4A860F855}");
